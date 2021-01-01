@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    font-size: 100px;
+    font-style: inherit;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+/*.introduction {
+    text-align: center;
+    font-size: 100px;
+    font-weight: lighter;
+}
+
+
+
+.header { 
+    text-align: center;
+    font-style: inherit;
+    font-size: 100px;
+    font-weight: bolder;}
+
+h2 {
+    font-weight:lighter ;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+}
